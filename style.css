@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.outbox{
+    border:solid;
+    height: 160px;
+    display: flex; 
+}
+#in1,#in2,#in3{
+    border: solid 1px;
+    height: 150px;
+}
+#in1{
+    width: 160px;
+}
+#in2{
+    width: 1000px;
+}
+#int3{
+    width: 15 0;
+}
+#clgname{
+    font-size: 43px;
+    color: blue;
+}
+.outerbox{
+    border: solid 1px;
+    height: 350px;
+} 
+#inbox1,#inbox2,#inbox3{
+   border: solid 1px;
+   height: 200px;
+}
+#inbox1{
+    width: 600px;
+}
+#inbox2,#inbox3{
+
+} 
